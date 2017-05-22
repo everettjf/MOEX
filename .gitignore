@@ -8,3 +8,5 @@ build-release/
 build-profile/
 
 moex-ui.pro.user
+*.o
+Makefile
